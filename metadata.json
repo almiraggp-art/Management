@@ -1,0 +1,5 @@
+{
+  "name": "Business Management System",
+  "description": "A comprehensive Business Management System featuring a Point of Sale (POS) for printing services and a customer points system for phone rentals. Manage products, track sales, handle customer loyalty, and view detailed analytics for both business modules.",
+  "requestFramePermissions": []
+}
